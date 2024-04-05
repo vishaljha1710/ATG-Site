@@ -11,21 +11,6 @@ This is the README file for the ATG HTML website project. This project aims to c
 
 ---
 
-## Project Structure
-
-ATG_HTML_Site/
-│
-├── assets/
-│ ├── index-ktExG8ZB.js
-│ └── index-DTnZWIDT.css
-│
-├── images/
-│ └── logo.svg
-│
-├── index.html
-└── README.md
-
-
 ## Features
 
 1. **Responsive Design**: The website is designed to be fully responsive and accessible on various devices.
