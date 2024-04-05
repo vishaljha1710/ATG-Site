@@ -9,6 +9,7 @@ This is the README file for the ATG HTML website project. This project aims to c
 
 ![image](https://github.com/vishaljha1710/ATG-Site/assets/77543816/df958400-c3c6-4709-a1e9-eabdd7a66718)
 
+---
 
 ## Project Structure
 
