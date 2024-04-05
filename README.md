@@ -4,7 +4,8 @@
 
 This is the README file for the ATG HTML website project. This project aims to create a responsive and user-friendly website for ATG using HTML, CSS, and Bootstrap.
 
-![image](https://github.com/vishaljha1710/ATG-Site/assets/77543816/def1778c-2ae4-4e0e-bcd1-436a39b02d7c)
+![image](https://github.com/vishaljha1710/ATG-Site/assets/77543816/262667de-7eb6-4ebc-a5f6-b25bae797a40)
+
 
 ![image](https://github.com/vishaljha1710/ATG-Site/assets/77543816/df958400-c3c6-4709-a1e9-eabdd7a66718)
 
